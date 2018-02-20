@@ -1,1 +1,1 @@
-select 1; --comment added
+select 1;
