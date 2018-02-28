@@ -1,1 +1,1 @@
-SELECT 1 --this is a comment that has been saved but not synced
+SELECT 1 --saving this comment, but it hasn't been synced yet
